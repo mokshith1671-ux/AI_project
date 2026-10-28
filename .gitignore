@@ -1,0 +1,9 @@
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+path2_benchmark/data/
+path2_benchmark/results/
+.DS_Store
+
