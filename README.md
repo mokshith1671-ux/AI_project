@@ -57,11 +57,12 @@ pip install -r requirements.txt
 
 #### Path 1: Custom Building Prototype (Run from Project Root `AI_project/`)
 # Ensure you are in the AI_project root directory
+
 python path1_pipeline.py
-```
 
 ### Path 2: UJIIndoorLoc Benchmark Evaluation
 # Navigate to the benchmark directory
+
 cd path2_benchmark
 
 # Download and extract the dataset (Run once)
