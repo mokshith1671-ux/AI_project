@@ -50,19 +50,21 @@ cd AI_project
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Running the Pipelines
 
 > **Note:** Make sure your virtual environment is activated before running any scripts (`.venv` should be visible in your terminal prompt).
 
 #### Path 1: Custom Building Prototype (Run from Project Root `AI_project/`)
+
+```bash
 # Ensure you are in the AI_project root directory
-
 python path1_pipeline.py
+```
 
-### Path 2: UJIIndoorLoc Benchmark Evaluation
+#### Path 2: UJIIndoorLoc Benchmark Evaluation (Run inside `path2_benchmark/`)
+
+```bash
 # Navigate to the benchmark directory
-
 cd path2_benchmark
 
 # Download and extract the dataset (Run once)
@@ -70,4 +72,4 @@ python download_dataset.py
 
 # Execute ML/DL benchmarking and navigation engine
 python path2_pipeline.py
-
+```
