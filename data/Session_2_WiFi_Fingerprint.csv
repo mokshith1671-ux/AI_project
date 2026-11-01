@@ -1,0 +1,105 @@
+Session_ID,Date,Timestamp,Location_ID,Location,Floor,Scan_ID,BSSID,SSID,RSSI_dBm,Frequency_MHz,Channel
+Session 2,2026-10-30,17:50,L06,Ground Floor Staircase Start,Ground Floor,S1,a8:5e:45:97:3c:d0,CC_GF,-74,2442,7
+Session 2,2026-10-30,17:50,L06,Ground Floor Staircase Start,Ground Floor,S1,2c:4d:54:49:be:40,Library,-74,2447,8
+Session 2,2026-10-30,17:50,L06,Ground Floor Staircase Start,Ground Floor,S1,34:0a:33:83:de:cd,IVE_Lab2.4,-75,2422,3
+Session 2,2026-10-30,17:50,L06,Ground Floor Staircase Start,Ground Floor,S1,34:0a:33:83:de:ce,IVE_Lab5,-84,5180,36
+Session 2,2026-10-30,17:50,L06,Ground Floor Staircase Start,Ground Floor,S1,2c:4d:54:49:be:44,Library_5G,-80,5745,149
+Session 2,2026-10-30,17:50,L06,Ground Floor Staircase Start,Ground Floor,S1,04:d4:c4:b4:ca:ec,Library,-90,5180,36
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S2,04:d4:c4:b4:ca:e8,Library,-73,2412,1
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S2,2c:4d:54:49:be:40,Library,-74,2447,8
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S2,a8:5e:45:97:1f:58,CC_GroundFloor1,-77,2417,2
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S2,04:d4:c4:b4:ca:ec,Library,-80,5180,36
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S2,2c:4d:54:49:be:44,Library_5G,-82,5745,149
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S3,a8:5e:45:97:3c:d0,CC_GF,-73,2442,7
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S3,2c:4d:54:49:be:40,Library,-73,2447,8
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S3,04:d4:c4:b4:ca:ec,Library,-78,5180,36
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S3,a8:5e:45:97:1f:58,CC_GroundFloor1,-80,2417,2
+Session 2,2026-10-30,17:52,L06,Ground Floor Staircase Start,Ground Floor,S3,2c:4d:54:49:be:44,Library_5G,-82,5745,149
+Session 2,2026-10-30,17:53,L06,Ground Floor Staircase Start,Ground Floor,S4,a8:5e:45:97:3c:d0,CC_GF,-73,2442,7
+Session 2,2026-10-30,17:53,L06,Ground Floor Staircase Start,Ground Floor,S4,2c:4d:54:49:be:40,Library,-75,2447,8
+Session 2,2026-10-30,17:53,L06,Ground Floor Staircase Start,Ground Floor,S4,a8:5e:45:97:1f:58,CC_GroundFloor1,-78,2412,1
+Session 2,2026-10-30,17:53,L06,Ground Floor Staircase Start,Ground Floor,S4,04:d4:c4:b4:ca:ec,Library,-78,5180,36
+Session 2,2026-10-30,17:53,L06,Ground Floor Staircase Start,Ground Floor,S4,34:0a:33:83:de:cd,IVE_Lab2.4,-85,2422,3
+Session 2,2026-10-30,17:54,L06,Ground Floor Staircase Start,Ground Floor,S5,34:0a:33:83:de:cd,IVE_Lab2.4,-78,2422,3
+Session 2,2026-10-30,17:54,L06,Ground Floor Staircase Start,Ground Floor,S5,04:d4:c4:b4:ca:e8,Library,-82,2412,1
+Session 2,2026-10-30,17:54,L06,Ground Floor Staircase Start,Ground Floor,S5,a8:5e:45:97:1f:5c,CC_GroundFloor1,-91,5180,36
+Session 2,2026-10-30,17:54,L06,Ground Floor Staircase Start,Ground Floor,S5,04:d4:c4:b4:ca:ec,Library,-91,5180,36
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S1,34:0a:33:83:de:cd,IVE_Lab2.4,-54,2422,3
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S1,34:0a:33:83:de:ce,IVE_Lab5,-66,5180,36
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S1,18:31:bf:46:35:30,CC_FirstFloor1,-67,2457,10
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S1,18:31:bf:46:35:34,CC_FirstFloor1,-83,5805,161
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S2,34:0a:33:83:de:cd,IVE_Lab2.4,-52,2422,3
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S2,34:0a:33:83:de:ce,IVE_Lab5,-72,5180,36
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S2,18:31:bf:46:35:30,CC_FirstFloor1,-67,2457,10
+Session 2,2026-10-30,17:57,L07,First Floor Staircase Ending,First Floor,S2,18:31:bf:46:35:34,CC_FirstFloor1,-83,5805,161
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S3,34:0a:33:83:de:cd,IVE_Lab2.4,-52,2422,3
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S3,34:0a:33:83:de:ce,IVE_Lab5,-72,5180,36
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S3,18:31:bf:46:35:30,CC_FirstFloor1,-73,2457,10
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S3,18:31:bf:46:35:34,CC_FirstFloor1,-85,5805,161
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S4,34:0a:33:83:de:cd,IVE_Lab2.4,-54,2422,3
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S4,34:0a:33:83:de:ce,IVE_Lab5,-71,5180,36
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S4,18:31:bf:46:35:30,CC_FirstFloor1,-78,2457,10
+Session 2,2026-10-30,17:58,L07,First Floor Staircase Ending,First Floor,S4,18:31:bf:46:35:34,CC_FirstFloor1,-85,5805,161
+Session 2,2026-10-30,17:59,L07,First Floor Staircase Ending,First Floor,S5,34:0a:33:83:de:cd,IVE_Lab2.4,-56,2422,3
+Session 2,2026-10-30,17:59,L07,First Floor Staircase Ending,First Floor,S5,34:0a:33:83:de:ce,IVE_Lab5,-68,5180,36
+Session 2,2026-10-30,17:59,L07,First Floor Staircase Ending,First Floor,S5,18:31:bf:46:35:30,CC_FirstFloor1,-76,2457,10
+Session 2,2026-10-30,17:59,L07,First Floor Staircase Ending,First Floor,S5,18:31:bf:46:35:34,CC_FirstFloor1,-84,5805,161
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,18:31:bf:46:35:34,CC_FirstFloor1,-47,5805,161
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,34:0a:33:83:de:cd,IVE_Lab2.4,-47,2422,3
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,18:31:bf:46:35:30,CC_FirstFloor1,-49,2447,8
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,34:0a:33:83:de:ce,IVE_Lab5,-54,5180,36
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,bc:a5:11:23:13:a0,CCFirstFloorLab,-56,5805,161
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,bc:a5:11:23:13:90,CCFirstFloorLab,-60,5300,60
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,bc:a5:11:23:13:80,CCFirstFloorLab,-65,2412,1
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,a8:5e:45:97:1f:58,CC_GroundFloor1,-82,2412,1
+Session 2,2026-10-30,18:05,L09,First Floor Computer Lab-2 Entrance,First Floor,S3,a8:5e:45:97:3c:d0,CC_GF,-83,2442,7
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,18:31:bf:46:35:34,CC_FirstFloor1,-48,5805,161
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,34:0a:33:83:de:cd,IVE_Lab2.4,-48,2422,3
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,18:31:bf:46:35:30,CC_FirstFloor1,-49,2447,8
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,34:0a:33:83:de:ce,IVE_Lab5,-52,5180,36
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,bc:a5:11:23:13:a0,CCFirstFloorLab,-54,5805,161
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,bc:a5:11:23:13:90,CCFirstFloorLab,-57,5300,60
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,bc:a5:11:23:13:80,CCFirstFloorLab,-65,2412,1
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S4,a8:5e:45:97:1f:58,CC_GroundFloor1,-87,2412,1
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,18:31:bf:46:35:34,CC_FirstFloor1,-49,5805,161
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,34:0a:33:83:de:cd,IVE_Lab2.4,-51,2422,3
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,bc:a5:11:23:13:a0,CCFirstFloorLab,-54,5805,161
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,18:31:bf:46:35:30,CC_FirstFloor1,-54,2447,8
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,34:0a:33:83:de:ce,IVE_Lab5,-54,5180,36
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,bc:a5:11:23:13:90,CCFirstFloorLab,-55,5300,60
+Session 2,2026-10-30,18:06,L09,First Floor Computer Lab-2 Entrance,First Floor,S5,bc:a5:11:23:13:80,CCFirstFloorLab,-65,2412,1
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,bc:a5:11:23:13:a0,CCFirstFloorLab,-63,5805,161
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,18:31:bf:46:35:30,CC_FirstFloor1,-63,2447,8
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,bc:a5:11:23:13:80,CCFirstFloorLab,-67,2412,1
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,34:0a:33:83:de:ce,IVE_Lab5,-68,5180,36
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,bc:a5:11:23:13:90,CCFirstFloorLab,-71,5300,60
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,34:0a:33:83:de:cd,IVE_Lab2.4,-71,2422,3
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S1,18:31:bf:46:35:34,CC_FirstFloor1,-73,5805,161
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,34:0a:33:83:de:cd,IVE_Lab2.4,-57,2422,3
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,bc:a5:11:23:13:a0,CCFirstFloorLab,-58,5805,161
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,18:31:bf:46:35:30,CC_FirstFloor1,-61,2447,8
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,34:0a:33:83:de:ce,IVE_Lab5,-61,5180,36
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,bc:a5:11:23:13:80,CCFirstFloorLab,-64,2412,1
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,18:31:bf:46:35:34,CC_FirstFloor1,-70,5805,161
+Session 2,2026-10-30,18:07,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S2,bc:a5:11:23:13:90,CCFirstFloorLab,-72,5300,60
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,34:0a:33:83:de:cd,IVE_Lab2.4,-56,2422,3
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,bc:a5:11:23:13:80,CCFirstFloorLab,-60,2412,1
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,18:31:bf:46:35:30,CC_FirstFloor1,-61,2447,8
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,34:0a:33:83:de:ce,IVE_Lab5,-61,5180,36
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,bc:a5:11:23:13:a0,CCFirstFloorLab,-63,5805,161
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,18:31:bf:46:35:34,CC_FirstFloor1,-70,5805,161
+Session 2,2026-10-30,18:08,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S3,bc:a5:11:23:13:90,CCFirstFloorLab,-72,5300,60
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,bc:a5:11:23:13:80,CCFirstFloorLab,-61,2412,1
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,bc:a5:11:23:13:a0,CCFirstFloorLab,-64,5805,161
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,34:0a:33:83:de:cd,IVE_Lab2.4,-67,2422,3
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,18:31:bf:46:35:30,CC_FirstFloor1,-69,2447,8
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,34:0a:33:83:de:ce,IVE_Lab5,-70,5180,36
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,18:31:bf:46:35:34,CC_FirstFloor1,-72,5805,161
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S4,bc:a5:11:23:13:90,CCFirstFloorLab,-77,5300,60
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,bc:a5:11:23:13:a0,CCFirstFloorLab,-51,5805,161
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,18:31:bf:46:35:30,CC_FirstFloor1,-57,2447,8
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,bc:a5:11:23:13:80,CCFirstFloorLab,-61,2412,1
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,34:0a:33:83:de:ce,IVE_Lab5,-62,5180,36
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,34:0a:33:83:de:cd,IVE_Lab2.4,-63,2422,3
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,18:31:bf:46:35:34,CC_FirstFloor1,-66,5805,161
+Session 2,2026-10-30,18:09,L10,First Floor Ojah Ma'am Cabin Entrance,First Floor,S5,bc:a5:11:23:13:90,CCFirstFloorLab,-69,5300,60

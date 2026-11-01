@@ -1,0 +1,110 @@
+﻿session,scan_id,timestamp,location_id,location_name,SSID,BSSID,RSSI_dBm,primary_channel,primary_frequency
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,CC_FirstFloor1,18:31:bf:46:35:30,-73,7,2442MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,CC_FirstFloor1,18:31:bf:46:35:34,-81,161,5805MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,SUDHA's M36,1a:e1:24:ee:72:34,-81,11,2462MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,Library,2c:4d:54:49:be:40,-89,5,2432MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,IVE_Lab2.4,34:0a:33:83:de:cd,-49,3,2422MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,IVE_Lab5,34:0a:33:83:de:ce,-57,36,5180MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,CCFirstFloorLab,bc:a5:11:23:13:80,-78,1,2412MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,CCFirstFloorLab,bc:a5:11:23:13:90,-81,60,5300MHz
+Session 3,S3_001,2026/10/31-11:08:00,FF_CC_ENT,Computer Centre First Floor Entrance,CCFirstFloorLab,bc:a5:11:23:13:a0,-75,161,5805MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,CC_FirstFloor1,18:31:bf:46:35:30,-59,7,2442MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,CC_FirstFloor1,18:31:bf:46:35:34,-65,36,5180MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,SUDHA's M36,1a:e1:24:ee:72:34,-71,11,2462MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,IVE_Lab2.4,34:0a:33:83:de:cd,-45,3,2422MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,IVE_Lab5,34:0a:33:83:de:ce,-56,36,5180MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,CC_GF,a8:5e:45:97:3c:d0,-84,11,2462MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,CCFirstFloorLab,bc:a5:11:23:13:80,-62,1,2412MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,CCFirstFloorLab,bc:a5:11:23:13:90,-65,60,5300MHz
+Session 3,S3_002,2026/10/31-11:10:26,FF_COMP_LAB2,Computer Lab 2 First Floor,CCFirstFloorLab,bc:a5:11:23:13:a0,-60,161,5805MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,CC_FirstFloor1,18:31:bf:46:35:30,-70,7,2442MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,CC_FirstFloor1,18:31:bf:46:35:34,-82,36,5180MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,SUDHA's M36,1a:e1:24:ee:72:34,-76,11,2462MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,IVE_Lab2.4,34:0a:33:83:de:cd,-72,3,2422MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,IVE_Lab5,34:0a:33:83:de:ce,-70,36,5180MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,DIRECT-0c-HP M208 LaserJet,46:fa:66:4f:b0:0c,-49,6,2437MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,moto g96 5G_1445,a6:7a:f6:6f:7f:0a,-94,149,5745MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,Dr. ASP,a8:6e:84:6b:4b:cf,-100,10,2457MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,CCFirstFloorLab,bc:a5:11:23:13:80,-64,1,2412MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,CCFirstFloorLab,bc:a5:11:23:13:90,-69,60,5300MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,CCFirstFloorLab,bc:a5:11:23:13:a0,-62,161,5805MHz
+Session 3,S3_003,2026/10/31-11:14:21,FF_OJAH_ENT,Ojah Ma'am Cabin,DIRECT-21-HP Laser 138fnw,f6:39:09:60:a6:21,0,1,2412MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,library,04:d4:c4:b4:ca:e8,-99,10,2457MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,CC_FirstFloor1,18:31:bf:46:35:30,-66,7,2442MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,CC_FirstFloor1,18:31:bf:46:35:34,-96,36,5180MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,SUDHA's M36,1a:e1:24:ee:72:34,-77,11,2462MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,Library,2c:4d:54:49:be:40,-97,5,2432MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,IVE_Lab2.4,34:0a:33:83:de:cd,-52,3,2422MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,IVE_Lab5,34:0a:33:83:de:ce,-67,36,5180MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,CC_GroundFloor1,a8:5e:45:97:1f:58,-98,1,2412MHz
+Session 3,S3_004,2026/10/31-11:17:25,FF_STAIR,First Floor Staircase Landing,CCFirstFloorLab,bc:a5:11:23:13:80,-78,1,2412MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,library,04:d4:c4:b4:ca:e8,-89,10,2457MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,library,04:d4:c4:b4:ca:ec,-75,157,5785MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,SUDHA's M36,1a:e1:24:ee:72:34,-98,11,2462MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,Library,2c:4d:54:49:be:40,-67,5,2432MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,Library_5G,2c:4d:54:49:be:44,-79,149,5745MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,IVE_Lab2.4,34:0a:33:83:de:cd,-80,3,2422MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,CC_GroundFloor1,a8:5e:45:97:1f:58,-77,1,2412MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,CC_GF,a8:5e:45:97:3c:d0,-66,7,2442MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,CC_GF,a8:5e:45:97:3c:d4,-88,149,5745MHz
+Session 3,S3_005,2026/10/31-11:19:56,GF_STAIR,Ground Floor Staircase,DIRECT-xaLAPTOP-OA04PAF4msRB,ae:e2:91:6b:5c:0e,-77,157,5785MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,library,04:d4:c4:b4:ca:e8,-62,10,2457MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,library,04:d4:c4:b4:ca:ec,-61,157,5785MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,Library,2c:4d:54:49:be:40,-64,5,2432MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,Library_5G,2c:4d:54:49:be:44,-72,149,5745MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,vivo 1904,2e:97:c1:f7:57:31,-76,1,2412MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,IVE_Lab5,34:0a:33:83:de:ce,-94,36,5180MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,Virus Loading ....,5a:c1:ba:13:80:54,-77,5,2432MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,Lele Net Garib ,9e:73:e6:d3:c7:8f,-96,36,5180MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,CC_GroundFloor1,a8:5e:45:97:1f:58,-90,1,2412MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,CC_GF,a8:5e:45:97:3c:d4,-87,149,5745MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,iQOO Neo 10R,aa:68:72:53:95:14,-61,11,2462MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,DIRECT-xaLAPTOP-OA04PAF4msRB,ae:e2:91:6b:5c:0e,0,157,5785MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,iPhoneee,e2:9b:d2:62:50:7d,-94,149,5745MHz
+Session 3,S3_006,2026/10/31-11:22:56,GF_LIB_ENT,Ground Floor Library Entrance,Redmi 13C 5G,f2:16:5c:6b:f4:2c,-66,7,2442MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,library,04:d4:c4:b4:ca:e8,-66,10,2457MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,library,04:d4:c4:b4:ca:ec,-58,157,5785MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,Pseudocoder,22:58:af:03:e4:5f,-65,6,2437MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,Library,2c:4d:54:49:be:40,-59,5,2432MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,Library_5G,2c:4d:54:49:be:44,-73,149,5745MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,vivo 1904,2e:97:c1:f7:57:31,-77,1,2412MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,Lele Net Garib ,9e:73:e6:d3:c7:8f,-81,36,5180MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,iQOO Neo 10R,aa:68:72:53:95:14,-65,11,2462MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,DIRECT-xaLAPTOP-OA04PAF4msRB,ae:e2:91:6b:5c:0e,-36,157,5785MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,iPhoneee,e2:9b:d2:62:50:7d,-92,149,5745MHz
+Session 3,S3_007,2026/10/31-11:25:10,GF_STUD_ENT,Ground Floor Study Hall Entrance,Arnav,f6:a9:58:dd:01:ca,-75,6,2437MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,library,04:d4:c4:b4:ca:e8,-53,10,2457MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,library,04:d4:c4:b4:ca:ec,-51,157,5785MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,realme P3 5G c5f2,1e:36:50:f1:de:4f,-65,6,2437MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Pseudocoder,22:58:af:03:e4:5f,-77,6,2437MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Library,2c:4d:54:49:be:40,-77,1,2412MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Library_5G,2c:4d:54:49:be:44,-91,149,5745MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,vivo 1904,2e:97:c1:f7:57:31,-57,1,2412MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Virus Loading ....,5a:c1:ba:13:80:54,-91,5,2432MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Lele Net Garib ,9e:73:e6:d3:c7:8f,-93,36,5180MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,DIRECT-xaLAPTOP-OA04PAF4msRB,ae:e2:91:6b:5c:0e,-62,157,5785MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Chiru💗,d2:64:ba:58:b1:29,-74,4,2427MHz
+Session 3,S3_008,2026/10/31-11:28:10,GF_STUD_CTR,Ground Floor Study Hall Centre,Arnav,f6:a9:58:dd:01:ca,-94,6,2437MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,library,04:d4:c4:b4:ca:e8,-71,10,2457MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,library,04:d4:c4:b4:ca:ec,-70,157,5785MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,Library,2c:4d:54:49:be:40,-55,1,2412MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,Library_5G,2c:4d:54:49:be:44,-51,149,5745MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,Virus Loading ....,5a:c1:ba:13:80:54,-78,5,2432MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,Lele Net Garib ,9e:73:e6:d3:c7:8f,-81,36,5180MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,CC_GF,a8:5e:45:97:3c:d0,-86,6,2437MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,iQOO Neo 10R,aa:68:72:53:95:14,-66,11,2462MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,DIRECT-xaLAPTOP-OA04PAF4msRB,ae:e2:91:6b:5c:0e,-43,157,5785MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,Chiru💗,d2:64:ba:58:b1:29,-88,4,2427MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,iPhoneee,e2:9b:d2:62:50:7d,-76,149,5745MHz
+Session 3,S3_009,2026/10/31-11:30:53,GF_LIB2_ENT,Library Hall 2 Entrance,Arnav,f6:a9:58:dd:01:ca,-74,6,2437MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,library,04:d4:c4:b4:ca:e8,-87,4,2427MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,library,04:d4:c4:b4:ca:ec,-87,157,5785MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,Library,2c:4d:54:49:be:40,-57,1,2412MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,Library_5G,2c:4d:54:49:be:44,-57,149,5745MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,Virus Loading ....,5a:c1:ba:13:80:54,-89,5,2432MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,Lele Net Garib ,9e:73:e6:d3:c7:8f,-98,36,5180MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,CC_GF,a8:5e:45:97:3c:d0,-97,6,2437MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,iQOO Neo 10R,aa:68:72:53:95:14,-79,11,2462MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,DIRECT-xaLAPTOP-OA04PAF4msRB,ae:e2:91:6b:5c:0e,-97,157,5785MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,iPhoneee,e2:9b:d2:62:50:7d,-58,149,5745MHz
+Session 3,S3_010,2026/10/31-11:33:19,GF_LIB2_CTR,Library Hall 2 Centre,Arnav,f6:a9:58:dd:01:ca,-92,6,2437MHz

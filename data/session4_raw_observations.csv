@@ -1,0 +1,116 @@
+﻿session,scan_id,timestamp,location_id,location_name,SSID,BSSID,RSSI_dBm,rssi_valid
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,library,04:d4:c4:b4:ca:e8,-74,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,library,04:d4:c4:b4:ca:ec,-66,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Library,2c:4d:54:49:be:40,-60,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Library_5G,2c:4d:54:49:be:44,-71,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,IVE_Lab5,34:0a:33:83:de:ce,-97,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,CMF by Nothing Phone 2 Pro_2340,36:2f:71:f0:f6:1f,-81,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,realme 8i,3e:cb:1a:44:40:43,-68,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Oppo K14,66:e1:47:3a:52:fc,-97,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Somil's iPhone,7e:81:d2:88:46:a1,-78,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,POCO F7,82:97:90:b4:29:cf,-98,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Infinix SMART 4 Plus,86:23:97:06:48:f7,-56,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Hello...,a2:98:2f:69:61:cc,-77,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,CC_GF,a8:5e:45:97:3c:d4,-95,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,Chiru💗,d2:64:ba:58:b1:29,-88,True
+Session 4,S4_001,2026/10/31-14:39:08,GF_LIB_ENT,Ground Floor Library Entrance,OnePlus Nord CE4 Lite 5G 5279,f2:8f:5b:49:c6:8c,-75,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,library,04:d4:c4:b4:ca:e8,-75,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,library,04:d4:c4:b4:ca:ec,-65,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,Library,2c:4d:54:49:be:40,-62,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,Library_5G,2c:4d:54:49:be:44,-52,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,CMF by Nothing Phone 2 Pro_2340,36:2f:71:f0:f6:1f,-67,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,realme 8i,3e:cb:1a:44:40:43,-72,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,PAPA Ji,46:bd:27:bc:10:ab,-73,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,Somil's iPhone,7e:81:d2:88:46:a1,-75,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,Hello...,a2:98:2f:69:61:cc,-75,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,Chiru💗,d2:64:ba:58:b1:29,-93,True
+Session 4,S4_002,2026/10/31-14:41:48,GF_LIB2_ENT,Library Hall 2 Entrance,OnePlus Nord CE4 Lite 5G 5279,f2:8f:5b:49:c6:8c,-72,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,library,04:d4:c4:b4:ca:e8,-61,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,library,04:d4:c4:b4:ca:ec,-55,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Library,2c:4d:54:49:be:40,-59,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Library_5G,2c:4d:54:49:be:44,-73,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,CMF by Nothing Phone 2 Pro_2340,36:2f:71:f0:f6:1f,-66,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,realme 8i,3e:cb:1a:44:40:43,-70,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,PAPA Ji,46:bd:27:bc:10:ab,-73,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Oppo K14,66:e1:47:3a:52:fc,-91,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,abcd,7a:03:c7:56:90:70,-84,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Somil's iPhone,7e:81:d2:88:46:a1,-67,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,POCO F7,82:97:90:b4:29:cf,-94,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Infinix SMART 4 Plus,86:23:97:06:48:f7,-82,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Hello...,a2:98:2f:69:61:cc,-63,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,Chiru💗,d2:64:ba:58:b1:29,-83,True
+Session 4,S4_003,2026/10/31-14:44:13,GF_STUD_ENT,Ground Floor Study Hall Entrance,OnePlus Nord CE4 Lite 5G 5279,f2:8f:5b:49:c6:8c,-67,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,library,04:d4:c4:b4:ca:e8,-60,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,library,04:d4:c4:b4:ca:ec,-41,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Library,2c:4d:54:49:be:40,-80,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Library_5G,2c:4d:54:49:be:44,-94,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,CMF by Nothing Phone 2 Pro_2340,36:2f:71:f0:f6:1f,-73,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Oppo K14,66:e1:47:3a:52:fc,-72,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,abcd,7a:03:c7:56:90:70,-74,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Somil's iPhone,7e:81:d2:88:46:a1,-95,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,POCO F7,82:97:90:b4:29:cf,-75,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Infinix SMART 4 Plus,86:23:97:06:48:f7,-66,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Hello...,a2:98:2f:69:61:cc,-83,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,Chiru💗,d2:64:ba:58:b1:29,-60,True
+Session 4,S4_004,2026/10/31-14:46:20,GF_STUD_CTR,Ground Floor Study Hall Centre,OnePlus Nord CE4 Lite 5G 5279,f2:8f:5b:49:c6:8c,-84,True
+Session 4,S4_005,2026/10/31-14:49:26,GF_LIB2_CTR,Library Hall 2 Centre,library,04:d4:c4:b4:ca:ec,-89,True
+Session 4,S4_005,2026/10/31-14:49:26,GF_LIB2_CTR,Library Hall 2 Centre,Library,2c:4d:54:49:be:40,-66,True
+Session 4,S4_005,2026/10/31-14:49:26,GF_LIB2_CTR,Library Hall 2 Centre,Library_5G,2c:4d:54:49:be:44,-60,True
+Session 4,S4_005,2026/10/31-14:49:26,GF_LIB2_CTR,Library Hall 2 Centre,CMF by Nothing Phone 2 Pro_2340,36:2f:71:f0:f6:1f,-98,True
+Session 4,S4_005,2026/10/31-14:49:26,GF_LIB2_CTR,Library Hall 2 Centre,Somil's iPhone,7e:81:d2:88:46:a1,-95,True
+Session 4,S4_005,2026/10/31-14:49:26,GF_LIB2_CTR,Library Hall 2 Centre,Hello...,a2:98:2f:69:61:cc,-87,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,library,04:d4:c4:b4:ca:ec,-78,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,Library,2c:4d:54:49:be:40,-80,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,Library_5G,2c:4d:54:49:be:44,-80,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,AndroidAP_1915,32:0d:31:a1:e3:5e,-84,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,IVE_Lab2.4,34:0a:33:83:de:cd,-74,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,CMF by Nothing Phone 2 Pro_2340,36:2f:71:f0:f6:1f,-85,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,realme 8i,3e:cb:1a:44:40:43,-91,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,Oppo K14,66:e1:47:3a:52:fc,-97,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,Somil's iPhone,7e:81:d2:88:46:a1,-97,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,Hello...,a2:98:2f:69:61:cc,-97,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,CC_GroundFloor1,a8:5e:45:97:1f:58,-69,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,CC_GF,a8:5e:45:97:3c:d0,-76,True
+Session 4,S4_006,2026/10/31-14:52:38,GF_STAIR,Ground Floor Staircase Entrance,OnePlus Nord CE4 Lite 5G 5279,f2:8f:5b:49:c6:8c,-91,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,CC_FirstFloor1,18:31:bf:46:35:30,-85,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,CC_FirstFloor1,18:31:bf:46:35:34,-77,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,Library,2c:4d:54:49:be:40,-89,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,IVE_Lab2.4,34:0a:33:83:de:cd,-66,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,IVE_Lab5,34:0a:33:83:de:ce,-70,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,DIRECT-0c-HP M208 LaserJet,46:fa:66:4f:b0:0c,0,False
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,CC_GF,a8:5e:45:97:3c:d0,-102,False
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,CCFirstFloorLab,bc:a5:11:23:13:80,-88,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,CCFirstFloorLab,bc:a5:11:23:13:90,-94,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,CCFirstFloorLab,bc:a5:11:23:13:a0,-82,True
+Session 4,S4_007,2026/10/31-14:55:09,FF_STAIR,First-Floor Staircase Landing,DIRECT-21-HP Laser 138fnw,f6:39:09:60:a6:21,0,False
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,library,04:d4:c4:b4:ca:e8,-98,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,CC_FirstFloor1,18:31:bf:46:35:30,-71,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,CC_FirstFloor1,18:31:bf:46:35:34,-70,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,Library,2c:4d:54:49:be:40,-85,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,Library_5G,2c:4d:54:49:be:44,-95,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,IVE_Lab2.4,34:0a:33:83:de:cd,-52,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,IVE_Lab5,34:0a:33:83:de:ce,-57,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,DIRECT-0c-HP M208 LaserJet,46:fa:66:4f:b0:0c,-38,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,CCFirstFloorLab,bc:a5:11:23:13:80,-83,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,CCFirstFloorLab,bc:a5:11:23:13:90,-84,True
+Session 4,S4_008,2026/10/31-14:57:19,FF_CC_ENT,Computer Centre First Floor Entrance,CCFirstFloorLab,bc:a5:11:23:13:a0,-76,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CC_FirstFloor1,18:31:bf:46:35:30,-56,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CC_FirstFloor1,18:31:bf:46:35:34,-39,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,IVE_Lab2.4,34:0a:33:83:de:cd,-32,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,IVE_Lab5,34:0a:33:83:de:ce,-55,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,DIRECT-0c-HP M208 LaserJet,46:fa:66:4f:b0:0c,-74,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CC_GroundFloor1,a8:5e:45:97:1f:58,-85,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CC_GF,a8:5e:45:97:3c:d0,-82,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CCFirstFloorLab,bc:a5:11:23:13:80,-63,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CCFirstFloorLab,bc:a5:11:23:13:90,-65,True
+Session 4,S4_009,2026/10/31-14:59:24,FF_CC_LAB2,Computer Lab 2 First Floor,CCFirstFloorLab,bc:a5:11:23:13:a0,-59,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CC_FirstFloor1,18:31:bf:46:35:30,-69,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CC_FirstFloor1,18:31:bf:46:35:34,-75,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,IVE_Lab2.4,34:0a:33:83:de:cd,-62,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,IVE_Lab5,34:0a:33:83:de:ce,-70,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,DIRECT-0c-HP M208 LaserJet,46:fa:66:4f:b0:0c,-53,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CC_GroundFloor1,a8:5e:45:97:1f:58,-97,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CC_GF,a8:5e:45:97:3c:d0,-98,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CCFirstFloorLab,bc:a5:11:23:13:80,-67,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CCFirstFloorLab,bc:a5:11:23:13:90,-73,True
+Session 4,S4_010,2026/10/31-15:01:32,FF_OJAH_ENT,Ojah Ma'am's Cabin,CCFirstFloorLab,bc:a5:11:23:13:a0,-67,True
